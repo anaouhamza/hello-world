@@ -4,12 +4,16 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="name"><b>Name3</b></label>
+    <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Your Name" name="name" id="name" required>
     <br>
 
-    <label for="email"><b>Email3</b></label>
+    <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
+
+    <label for="mobile"><b>Mobile Phone</b></label>
+    <input type="text" placeholder="Enter your mobile" name="mobile" id="mobile" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
